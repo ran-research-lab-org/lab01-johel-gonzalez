@@ -17,3 +17,7 @@ int main() {
   
   return 0;
 }
+
+
+//// El nombre del archivo debe ser lab01.cpp, no lab1.cpp  (-1 pt)
+//// 9/10)
